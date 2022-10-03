@@ -8,10 +8,12 @@ To write a program to predict the profit of a city using the linear regression m
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
+```
 1.Import the needed packages
 2.Read the txt file using read_csv
 3.Use numpy to find theta,x,y values
 4.To visualize the data use plt.plot
+```
 
 ## Program:
 ```
